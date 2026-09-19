@@ -1,2 +1,2 @@
-# leetcode-solutions-py
+# leetcode-solutions
 Solutions to common Leetcode problems
